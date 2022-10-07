@@ -1,0 +1,17 @@
+.footerWrapper {
+    margin-top: 20px;
+    width: 100%;
+    height: 100px;
+    background-color: rgb(88, 161, 213);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.owner {
+    margin-right: 20px;
+}
+
+.copyrigth {
+    margin-left: 20px;
+}

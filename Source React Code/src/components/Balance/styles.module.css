@@ -1,0 +1,17 @@
+.balanceWrapper {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.current {
+    font-size: 30px;
+}
+
+.underline {
+    margin-top: 10px;
+    width: 100px;
+    height: 2px;
+    background-color: #000;
+}

@@ -1,0 +1,13 @@
+.aboutWrapper {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(185, 213, 228);
+}
+
+.about {
+    text-align: center;
+    font-size: 18px;
+    width: 60%;
+}
